@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/sddhrthrt/bin/taskman/trunk'
+let g:netrw_dirhist_2='/home/sddhrthrt/bin/taskman'
+let g:netrw_dirhist_3='/home/sddhrthrt/bin/taskman/trunk'
+let g:netrw_dirhist_4='/media/HP V165W/OpenGL/graffiti'
+let g:netrw_dirhist_5='/media/HP V165W/OpenGL/graffiti/trunk'
+let g:netrw_dirhist_6='/usr/share/vim/vim72'
+let g:netrw_dirhist_7='/usr/share/vim/vim72/colors'
+let g:netrw_dirhist_8='/usr/share/vim/vim72'
+let g:netrw_dirhist_9='/usr/share/vim/vim72/colors'

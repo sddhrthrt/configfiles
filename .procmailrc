@@ -1,0 +1,10 @@
+PATH=/bin:/usr/bin:/usr/local/bin
+VERBOSE=off
+DEFAULT=$HOME/mail/inbox
+MAILDIR=$HOME/mail
+LOGFILE=$HOME/.procmaillog
+#recipes:
+
+:0:
+* ^TOmutt-user
+mutt

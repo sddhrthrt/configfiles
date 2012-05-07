@@ -1,0 +1,9 @@
+/set theme xchat
+/network add FreeNode
+/server add -auto -network FreeNode irc.freenode.com
+/channel add -auto #simplecv FreeNode
+/channel add -auto #musicbrainz FreeNode
+/channel add -auto #lug-nitk FreeNode
+/channel add -auto #ubuntu+1 FreeNode
+/channel add -auto #ubuntu FreeNode
+/connect FreeNode
